@@ -1,5 +1,5 @@
 config.fish
 fishd.*
-functions
-conf.d
+functions/fundle.fish
+fundle/
 
