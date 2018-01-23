@@ -1,3 +1,5 @@
 config.fish
-completions
 fishd.*
+functions
+conf.d
+
